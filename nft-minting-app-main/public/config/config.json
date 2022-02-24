@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbb37111042f782b8c948235bf2136142e371df3b",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x783716bb835a7f2d8ee7f5be78778bc227b02d54eda38f19fd80069ebe50d7c2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "I'm not creative",
+  "SYMBOL": "NCNFT",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/im-not-creative",
+  "SHOW_BACKGROUND": true
+}
